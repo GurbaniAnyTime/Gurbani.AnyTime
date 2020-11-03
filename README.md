@@ -57,6 +57,7 @@
 | Platform | Link |
 |:--|:--|
 | Linkedin | <a href="https://www.linkedin.com/in/charn89"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Twitter | <a href="https://twitter.com/charnpreet89"><img src="https://img.shields.io/badge/Twitter-@charnpreet89-blue.svg" alt="Twitter: @charnpreet89"/></a> |
 | Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/sony_baf@yahoo.co.in-blue?logo=mail&style=flat&logoColor=white"></a> |
 
     
