@@ -55,9 +55,10 @@
 ## support--feedback   
 | Platform | Link |
 |:--|:--|
-| Twitter | <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'>Charnpreet Singh</a> |
-| Email | <a href="mailto:sony_baf@yahoo.co.in" title="sony_baf@yahoo.co.in"> sony_baf@yahoo.co.in</a> |
-  
+| Linkedin|  <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'><Charnpreet Singh><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/email-sony_baf@yahoo.co.in-green?logo=mail&style=flat&logoColor=white"> </a> |
+
+
 
 
 ## about-licensing
