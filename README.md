@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Charnpreet/AppLandingPages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+    <img src="Resources/app_icon.png" alt="Gurabani AnyTime for iOS" height="128" width="128">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 align="center">GurbaniAnyTime</h1>
 
-### Markdown
+<p align="center">
+  <a href="#about-the-app">About the App</a> •
+  <a href="#mission-of-this-project">Mission of this Project</a> •
+  <a href="#support--feedback">Support & Feedback</a> •
+  <a href="#about-licensing">Licensing</a>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5-orange.svg?style=flat" alt="Swift"/></a>
+<img src="https://img.shields.io/badge/Platform-iOS%2011.0+-lightgrey.svg" alt="Platform: iOS">
+<img src="https://img.shields.io/github/license/erikmartens/NearbyWeather.svg?style=flat" alt="License: MIT">
+</p>
+<p align="center">
+    <a href="https://apps.apple.com/us/app/id1526251689"><img src="Resources/app_store_badge.svg" alt="Download on the App Store"/></a>
+</p>
+<p align="center">
+    <img src="Resources/screenshots.PNG" alt="Gurbani AnyTime Screenshots">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## about-the-app
+                                  ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ
+                                  ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ
+                        ਇਹ ਐਪ ਸਿਰਫ ਸਿਖਲਾਈ ਦੇ ਉਦੇਸ਼ਾਂ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ. 
+                        ਇਸ ਐਪ ਵਿੱਚ ਤੁਸੀਂ 26 ਸਿੱਖ ਬਾਣੀਆਂ ਨੂੰ ਪੜ੍ਹ ਸਕਦੇ ਹੋ.
+                        ਇਸ ਵਿਚ ਤੁਸੀਂ ਹੁਕਮਨਾਮਾ ਵੀ ਪੜ੍ਹ ਸਕਦੇ ਹੋ. 
+                        ਇਸ ਐਪ ਵਿੱਚ ਸਾਰੀ ਗੁਰਬਾਣੀ GurbaniNow API 
+                        ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਪੇਸ਼ ਕੀਤੀ ਗਈ ਹੈ. ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਗੁਰਬਾਣੀ ਦੇ
+                        ਸੰਬੰਧ ਵਿੱਚ ਕੋਈ ਵੀ ਸੁਝਾਅ ਹੈ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ GurbaniNow API 
+                        ਦੀ ਟੀਮ ਨੂੰ contact@gurbaninow.com  ਤੇ ਸੰਪਰਕ ਕਰੋ.
 
-1. Numbered
-2. List
+                                    ਭੂਲ ਚੁਕ ਮਾਫ 🙏
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## mission-of-this-project
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Area | Concepts | Status |
+|:--|:--|:--|
+| Language | Swift (latest release) | ✅ |
+| Networking | Alamofire | ✅  |
+| Additional Frameworks | RxSwift | 🔄 In Progress |
+| Dependencies |Dependency Injection & Singletons | ✅ |
+| Navigation | Coordinator Pattern with RxFlow | 🔄 In Progress |
+| Library Management | CocoaPods | ✅ |
 
-### Jekyll Themes
+## support--feedback   
+| Platform | Link |
+|:--|:--|
+| Twitter | <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'>Charnpreet Singh</a> |
+| Email | <a href="mailto:sony_baf@yahoo.co.in" title="sony_baf@yahoo.co.in"> sony_baf@yahoo.co.in</a> |
+  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Charnpreet/AppLandingPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## about-licensing
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Licensed under the **MIT License** (the "License"); you may not use this file except in compliance with the License.
+You may obtain a copy of the License at https://opensource.org/licenses/MIT.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./LICENSE) for the specific language governing permissions and limitations under the License.
