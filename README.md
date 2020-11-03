@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#about-the-app">About the App</a> •
   <a href="#mission-of-this-project">Mission of this Project</a> •
-  <a href="#contact-me">Support & Feedback</a> •
+  <a href="#Support-Feedback">Support & Feedback</a> •
   <a href="#about-licensing">Licensing</a>
 </p>
 
@@ -52,11 +52,11 @@
 | Navigation | Coordinator Pattern with RxFlow | 🔄 In Progress |
 | Library Management | CocoaPods | ✅ |
 
-## contact-me   
+## Support-Feedback  
 
 | Platform | Link |
 |:--|:--|
-| Linkedin | <a href="www.linkedin.com/in/charn89"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Linkedin | <a href="https://www.linkedin.com/in/charn89"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/sony_baf@yahoo.co.in-blue?logo=mail&style=flat&logoColor=white"></a> |
 
     
