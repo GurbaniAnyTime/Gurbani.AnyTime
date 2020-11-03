@@ -56,7 +56,7 @@
 
 | Platform | Link |
 |:--|:--|
-| Linkedin | <a href="'https://au.linkedin.com/in/charn89?trk=profile-badge'"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Linkedin | <a href="www.linkedin.com/in/charn89"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/sony_baf@yahoo.co.in-blue?logo=mail&style=flat&logoColor=white"></a> |
 
     
