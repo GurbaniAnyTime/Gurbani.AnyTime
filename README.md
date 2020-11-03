@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#about-the-app">About the App</a> •
   <a href="#mission-of-this-project">Mission of this Project</a> •
-  <a href="#support--feedback">Support & Feedback</a> •
+  <a href="#contact-me">Support & Feedback</a> •
   <a href="#about-licensing">Licensing</a>
 </p>
 
@@ -52,14 +52,15 @@
 | Navigation | Coordinator Pattern with RxFlow | 🔄 In Progress |
 | Library Management | CocoaPods | ✅ |
 
-## support--feedback   
-| Platform | Link |
-|:--|:--|
-| Linkedin|  <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'><Charnpreet Singh><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/email-sony_baf@yahoo.co.in-green?logo=mail&style=flat&logoColor=white"> </a> |
+## contact-me   
+
+Platform | Link
+------------ | -------------
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> | <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'><Charnpreet Singh></a>
+<img src="https://img.shields.io/badge/email-sony_baf@yahoo.co.in-green?logo=mail&style=flat&logoColor=white">  | <a href="mailto:sony_baf@yahoo.co.in"></a>
 
 
-
+    
 
 ## about-licensing
 
