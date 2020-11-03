@@ -54,11 +54,10 @@
 
 ## contact-me   
 
-Platform | Link
------------- | -------------
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> | <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'><Charnpreet Singh></a>
-<img src="https://img.shields.io/badge/email-sony_baf@yahoo.co.in-green?logo=mail&style=flat&logoColor=white">  | <a href="mailto:sony_baf@yahoo.co.in"></a>
-
+| Platform | Link |
+|:--|:--|
+| Linkedin | <a href="'https://au.linkedin.com/in/charn89?trk=profile-badge'"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Email | <a href="mailto:sony_baf@yahoo.co.in"><img src="https://img.shields.io/badge/sony_baf@yahoo.co.in-blue?logo=mail&style=flat&logoColor=white"></a> |
 
     
 
