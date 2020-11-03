@@ -8,6 +8,7 @@
 <p align="center">
   <a href="#about-the-app">About the App</a> •
   <a href="#mission-of-this-project">Mission of this Project</a> •
+  <a href="#support--feedback">Support & Feedback</a> •
   <a href="#about-licensing">Licensing</a>
 </p>
 
@@ -50,6 +51,13 @@
 | Dependencies |Dependency Injection & Singletons | ✅ |
 | Navigation | Coordinator Pattern with RxFlow | 🔄 In Progress |
 | Library Management | CocoaPods | ✅ |
+
+## support--feedback   
+| Platform | Link |
+|:--|:--|
+| Twitter | <a class="LI-simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'>Charnpreet Singh</a> |
+| Email | <a href="mailto:sony_baf@yahoo.co.in" title="sony_baf@yahoo.co.in"> sony_baf@yahoo.co.in</a> |
+  
 
 
 ## about-licensing
