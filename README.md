@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="Resources/app_icon.png" alt="Gurabani AnyTime for iOS" height="128" width="128">
+    <img src="Images/app_icon.png" alt="Gurabani AnyTime for iOS" height="128" width="128">
 </p>
 
 <h1 align="center">GurbaniAnyTime</h1>
@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/github/license/erikmartens/NearbyWeather.svg?style=flat" alt="License: MIT">
 </p>
 <p align="center">
-    <a href="https://apps.apple.com/us/app/id1526251689"><img src="Resources/app_store_badge.svg" alt="Download on the App Store"/></a>
+    <a href="https://apps.apple.com/us/app/id1526251689"><img src="Images/app_store_badge.svg" alt="Download on the App Store"/></a>
 </p>
 <p align="center">
-    <img src="Resources/screenshots.PNG" alt="Gurbani AnyTime Screenshots">
+    <img src="Images/screenshots.PNG" alt="Gurbani AnyTime Screenshots">
 </p>
 
 
